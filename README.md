@@ -28,7 +28,8 @@
   
 </p>
 
-
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shadynitesh22&theme=radical&show_icons=true&locale=en&layout=compact" alt="shadynitesh22" />
+<p/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -88,20 +89,19 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a><br>
  
-  <div id="header" align="center">
+  <div id="header">
     <h4>Let's Look at my Git stats !! Don't Judge <h4/>
    <img align="center" src="https://i.makeagif.com/media/5-27-2014/OKdkAJ.gif"
      alt="Markdown Monster icon"
-        
-      />
+            />
+      <br>
       
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadynitesh22&show_icons=true&locale=en&theme=radical" alt="shadynitesh22" /></p><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shadynitesh22&show_icons=true&locale=en&theme=radical" alt="shadynitesh22" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadynitesh22&show_icons=true&theme=radical" alt="shadynitesh22" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shadynitesh22&show_icons=true&theme=radical" alt="shadynitesh22" />
 </p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadynitesh22&theme=radical&show_icons=true&locale=en&layout=compact" alt="shadynitesh22" />
-<p/>
- 
+
+
+
+
 </div>
-
-
