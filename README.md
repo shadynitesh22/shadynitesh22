@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Nitesh Paude - 🌱 I’m currently learning ... Python Django Devops Authentication Scalability 
 
+  <a style="float:center">![A test image](https://cdn.dribbble.com/users/1097364/screenshots/7366895/comp-3_still_2x.gif?compress=1&resize=400x300)<a/><br>
+ 
+  📫 How to reach me: ... You can reach me through my website https://niteshprotfolio.herokuapp.com/
+  
+  
+ 
+ .
 <!--
 **shadynitesh22/shadynitesh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
