@@ -6,7 +6,7 @@
       />
 </div>
 
-<h3 align="center">A passionate pythonista from Nepal 🇳🇵</h3>
+<h3 align="center">A passionate backend developer from Nepal 🇳🇵</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadynitesh22&label=Profile%20views&color=0e75b6&style=flat" alt="shadynitesh22" /> </p>
@@ -14,7 +14,7 @@
 <div id="header" align="center">
 
 </div>
-  - 🌱 I’m currently learning **Devops, Machine learning , brute force**
+  - 🌱 I’m currently learning **Devops, **MachineLearning
 
 - 👨‍💻 All of my projects are available at [https://niteshprotfolio.herokuapp.com/](https://niteshprotfolio.herokuapp.com/)
 
@@ -78,7 +78,7 @@
   <h3 align="left">Most Skilled At:</h3>
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
   <h3 align="left">Database :</h3>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
