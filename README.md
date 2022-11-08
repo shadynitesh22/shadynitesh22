@@ -16,9 +16,9 @@
 </div>
   - 🌱 I’m currently learning **Devops, **MachineLearning
 
-- 👨‍💻 All of my projects are available at [https://shadyprotfolio123.herokuapp.com/](https://shadyprotfolio123.herokuapp.com//)
+- 👨‍💻 All of my projects are available at [https://shadyprotfolio123.herokuapp.com/](https://shadyprotfolio123.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://shadyprotfolio123.herokuapp.com//](https://shadyprotfolio123.herokuapp.com//)
+- 📝 I regularly write articles on [https://shadyprotfolio123.herokuapp.com//](https://shadyprotfolio123.herokuapp.com/)
 
 
 
